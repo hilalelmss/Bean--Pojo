@@ -16,6 +16,6 @@ JAVA BEAN
 	It must have a no-arg constructor.
 	It is used when you want to provide user your entity but only some part of your entity.
 	
-			***okunabilirliði artýrmak için kullanýlýrlar***
-			***POJO,hibernate ve JPA da kullanýlýrken Id deðeri olmalý***
-			***Bean,JSP de kullanýlýrken nesne yaratýlmasý için constructor bulundurmalý***
+			***okunabilirligi artirmak için kullanilirlar***
+			***POJO,hibernate ve JPA da kullanilirken Id degeri olmali***
+			***Bean,JSP de kullanilirken nesne yaratilmasi icin constructor bulundurmali***
